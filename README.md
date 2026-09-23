@@ -1,6 +1,6 @@
 # Code Domino
 
-Code Domino is an offline IntelliJ IDEA plugin that stops Spring Boot endpoint changes from spreading into stale Axios callers.
+Code Domino is an offline IntelliJ IDEA plugin that stops Spring Boot endpoint changes from spreading into stale Axios callers. 
 
 ## What it supports
 
